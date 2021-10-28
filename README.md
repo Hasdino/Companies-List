@@ -1,6 +1,7 @@
 # Companies-List
 
 open to suggestions of interesting places.
+put in alphabetic order
 
 
 | Name           | Field                 | Website                       |
